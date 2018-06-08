@@ -1,24 +1,24 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "xlsxwriter"
-version = "0.0.4-1"
+version = "0.0.5-1"
 -- LuaDist source
 source = {
-  tag = "0.0.4-1",
+  tag = "0.0.5-1",
   url = "git://github.com/LuaDist-testing/xlsxwriter.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/jmcnamara/xlsxwriter.lua.git",
---   tag = "v0.0.4"
+--   tag = "v0.0.5"
 -- }
 description = {
   summary = "A lua module for creating Excel XLSX files.",
   detailed = [[
       XlsxWriter
 
-      Xlsxwriter is a Lua module that can be used to write text, numbers
-      and formulas to multiple worksheets in an Excel 2007+ XLSX file.
+      Xlsxwriter is a Lua module that can be used to write text, numbers,
+      formulas and hyperlinks to multiple worksheets in an Excel 2007+ XLSX file.
 
       It supports features such as:
 
