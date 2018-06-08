@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "xlsxwriter"
 version = "0.0.3-1"
--- LuaDist source
 source = {
-  tag = "0.0.3-1",
-  url = "git://github.com/LuaDist-testing/xlsxwriter.git"
+  url = "git://github.com/jmcnamara/xlsxwriter.lua.git",
+  tag = "v0.0.3"
 }
--- Original source
--- source = {
---   url = "git://github.com/jmcnamara/xlsxwriter.lua.git",
---   tag = "v0.0.3"
--- }
 description = {
   summary = "A lua module for creating Excel XLSX files.",
   detailed = [[
