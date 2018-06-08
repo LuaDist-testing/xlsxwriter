@@ -1,6 +1,18 @@
 
 
-Release 0.0.1 - March XX 2014
+Release 0.0.3 - April 9 2014
+----------------------------
+
+* Added the :func:`merge_range` method to merge worksheet cells.
+
+
+Release 0.0.2 - April 6 2014
+----------------------------
+
+* Added :ref:`page_setup` methods.
+
+
+Release 0.0.1 - March 29 2014
 -----------------------------
 
 * First public release.
